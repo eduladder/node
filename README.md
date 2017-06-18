@@ -16,10 +16,10 @@ Commands to run
 ============
 
 git clone https://github.com/eduladder/node.git
-npm install -g nodemon
-cd node
-npm install
-npm start
+* npm install -g nodemon
+* cd node
+* npm install
+* npm start
 
 Port
 ============
